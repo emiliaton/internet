@@ -90,7 +90,7 @@ footer{
     margin-top: 8rem!important;
 }
 .footerimg{
-    width: 1rem;
+    width: 2.5rem;
     opacity: 70%;
 }
 .portfolio{
@@ -211,7 +211,7 @@ h4{
 .content{
   display: flex;
   margin-top: 80px;
-  margin-bottom: 220px;
+  margin-bottom: 150px;
 }
 .contenttext{
   margin: auto;
