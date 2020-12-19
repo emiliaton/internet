@@ -42,8 +42,15 @@ h2{
     font-family: 'Alata', sans-serif;
     font-weight: bold;
 }
-.aboutsection{
- 
+.sectionheading{
+  background-color: #FFD900;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 82vh;
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+    
 }
 .transparent{
    
@@ -83,7 +90,7 @@ footer{
     margin-top: 8rem!important;
 }
 .footerimg{
-    width: 2.5rem;
+    width: 1rem;
     opacity: 70%;
 }
 .portfolio{
@@ -193,18 +200,28 @@ h4{
 .spacelink{
     margin-bottom: 3rem;
 }
-h2{
-    font-size: 1.7rem;
-    padding-top: 2rem;
-    font-family: 'Montserrat', sans-serif;
-}
+
 .arrow{
     text-decoration: none;
-    color: #b89412!important;
+    color: #000000!important;
 }
 .arrow:hover{
-    color: #735d0a!important;
+    color: #FFD900!important;
 }
+.content{
+  display: flex;
+  margin-top: 80px;
+}
+.contenttext{
+  margin: auto;
+  width: 80%;
+  font-family: 'Amiri', serif;
+  line-height: 37px;
+  font-size: 22px;
+  color: #0c0c0c;
+}
+.part{
+  margin-bottom: 50px;
 /**************************
   DEFAULT BOOTSTRAP STYLES
 **************************/
