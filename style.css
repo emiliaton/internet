@@ -32,7 +32,7 @@ h1{
     font-family: 'Alata', sans-serif;
     font-size: 6em;
     font-weight: bolder;
-    color: #F5C519;
+    color:  #FFD900;
 }
 h3{
     font-family: 'Work Sans', sans-serif;
@@ -65,7 +65,7 @@ h3{
 .button:hover{
     background:#FFD900;
     color:#000000;
-    font-weight: bolder;
+    font-weight: bold;
     font-size: 1.2rem;
 }
 }
