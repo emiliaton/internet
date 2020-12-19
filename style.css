@@ -51,25 +51,28 @@ h3{
     margin: 2rem 2rem;
     font-weight: regular; 
 }
-.button {
-    width: 90%;
-    background-color: #000000;
-    color: white;
-    text-align: left;
-    border-radius: 15px;
-    font-size: 1.1rem;
-    font-family: 'Work Sans', sans-serif;
-    font-weight: bold;
+.button{
+    font-size: 18px;
+    text-decoration: none;
+    color: #FFD900;
+    border: #000000 3px solid;
+    padding: 10px 20px;
+    border-radius: 25px;
+    margin-top:20px;
+    font-family: 'Quicksand', sans-serif;
+
+}
+.button:hover{
+    background:#FFD900;
+    color:#000000;
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
 }
 .link{
     text-decoration: none!important;
 }
-.button:hover{
-    font-weight: bolder;
-    background-color: #000000;
-    color: white;
-    font-size: 1.2rem;
-}
+
 footer{
     height: 50vh;
     background-color: #000000;
