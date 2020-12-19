@@ -35,7 +35,11 @@ h1{
     color:  #FFD900;
 }
 h3{
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Alata', sans-serif;
+    font-weight: bold;
+}
+h2{
+    font-family: 'Alata', sans-serif;
     font-weight: bold;
 }
 .aboutsection{
@@ -47,25 +51,25 @@ h3{
 .abouttext{
     color: black;
     font-family: 'Alata', sans-serif;
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin: 2rem 2rem;
     font-weight: regular; 
 }
 .button{
     font-size: 18px;
     text-decoration: none;
-    color: #FFD900;
+    color: #000000;
     border: #000000 3px solid;
     padding: 10px 20px;
     border-radius: 25px;
     margin-top:20px;
     font-family: 'Quicksand', sans-serif;
-
+    font-weight: bold;
 }
 .button:hover{
     background:#FFD900;
     color:#000000;
-    font-weight: bold;
+    font-weight: bolder;
     font-size: 1.2rem;
 }
 }
@@ -74,7 +78,7 @@ h3{
 }
 
 footer{
-    height: 50vh;
+    height: 40vh;
     background-color: #000000;
     margin-top: 8rem!important;
 }
