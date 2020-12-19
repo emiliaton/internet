@@ -12,10 +12,10 @@ header{
     text-transform: uppercase;
 }
 .nav-dark,.navbar-nav, .nav-link.active{
-    color: #5b47ee !important;
+    color: #FFD900!important;
 }
 .nav-dark,.navbar-nav, .nav-link:hover {
-    color: #5B47EE !important;
+    color: #FFD900 !important;
 }
 nav {
     box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
@@ -58,8 +58,8 @@ h3{
 }
 .button {
     width: 90%;
-    background-color: #F5C519;
-    color: black;
+    background-color: #000000;
+    color: white;
     text-align: left;
     border-radius: 15px;
     font-size: 1.1rem;
@@ -71,13 +71,13 @@ h3{
 }
 .button:hover{
     font-weight: bolder;
-    background-color: #ffd87a;
-    color: black;
+    background-color: #000000;
+    color: white;
     font-size: 1.2rem;
 }
 footer{
-    height: 18vh;
-    background-color: #2D208B;
+    height: 20vh;
+    background-color: 000000;
     margin-top: 8rem!important;
 }
 .footerimg{
