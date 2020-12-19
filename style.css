@@ -46,7 +46,7 @@ h2{
   background-color: #FFD900;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 30vh;
+    height: 80vh;
     width:100%;
     margin-left:auto;
     margin-right:auto;
@@ -211,7 +211,7 @@ h4{
 .content{
   display: flex;
   margin-top: 80px;
-  margin-bottom: 150px;
+  margin-bottom: 80px;
 }
 .contenttext{
   margin: auto;
